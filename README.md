@@ -14,7 +14,7 @@ Created a Python script for analyzing the financial records of the company. I us
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-analysis of the script is given below:
+Analysis of the script is given below:
 
   ```text
   Financial Analysis
